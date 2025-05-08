@@ -1,4 +1,4 @@
-# coffee_shop_sales_dashboard
+# Coffee Shop Sales Dashboard
 
 This project showcases a Power BI dashboard analyzing transaction data from a coffee shop. It reveals patterns in customer behavior, sales peaks, and top-performing products.
 
@@ -9,10 +9,7 @@ This project showcases a Power BI dashboard analyzing transaction data from a co
 - *Top Coffee Products* – Latte leads with $28K in sales.
 - *Payment Method Breakdown* – Majority of customers use cards.
 
-![Dashboard Screenshot](./dashboard-screenshot.jpg)
-
-![Dashboard Screenshot](./Screenshot%202025-05-07%20033136.png)
-
+[![Dashboard Screenshot](./Screenshot%202025-05-07%20033136.png)](./Screenshot%202025-05-07%20033136.png)
 
 ## Key Takeaways
 
