@@ -10,7 +10,10 @@ This project showcases a Power BI dashboard analyzing transaction data from a co
 - *Payment Method Breakdown* – Majority of customers use cards.
 
 ![Dashboard Screenshot](./dashboard-screenshot.jpg)
-<img width="674" alt="Screenshot 2025-05-07 033136" src="https://github.com/user-attachments/assets/8b9fbe84-c760-4bfa-b277-c6d5f431a322" />
+
+![Dashboard Screenshot](./Screenshot 2025-05-07 033136.png)
+
+
 
 ## Key Takeaways
 
