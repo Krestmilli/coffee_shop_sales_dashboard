@@ -11,7 +11,7 @@ This project showcases a Power BI dashboard analyzing transaction data from a co
 
 ![Dashboard Screenshot](./dashboard-screenshot.jpg)
 
-![Dashboard Screenshot](./Screenshot 2025-05-07 033136.png)
+![Dashboard Screenshot](./Screenshot-2025-05-07033136.png)
 
 
 
