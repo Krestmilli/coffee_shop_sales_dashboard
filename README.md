@@ -9,7 +9,7 @@ This project showcases a Power BI dashboard analyzing transaction data from a co
 - *Top Coffee Products* – Latte leads with $28K in sales.
 - *Payment Method Breakdown* – Majority of customers use cards.
 
-[![Dashboard Screenshot](./Screenshot%202025-05-07%20033136.png)](./Screenshot%202025-05-07%20033136.png)
+[Click here to view the dashboard screenshot](./Screenshot%202025-05-07%20033136.png)
 
 ## Key Takeaways
 
@@ -29,5 +29,4 @@ This project showcases a Power BI dashboard analyzing transaction data from a co
 2. Open in Power BI Desktop.
 3. Interact with filters (Month, Coffee Type) to explore insights.
 
-[Click here to view the dashboard screenshot](./Screenshot%202025-05-07%20033136.png)
 ---
